@@ -13,7 +13,7 @@ public class Main extends Layout {
     private static String sql;
     private static String url = "jdbc:mysql://localhost:3306/employee_db";
     private static String user = "root"; 
-    private static String password = "Tuananh2008"; 
+    private static String password = ""; 
     private static ArrayList<String[]> employees;
 
     public static void main(String[] args) { 
